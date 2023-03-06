@@ -1,13 +1,19 @@
 body {
     background-color: aqua;
 }
-div {
+.sla {
     background-color: #9dff00;
     width: 100px;
     height: 100px;
-    margin: auto;
+    margin-left: 610px;
+    margin-top: 250px;
+    text-align: center;
 }
-p {
-    padding: 33px;
+header#titulo {
+    text-align: center;
+}
+audio#musica {
+display: none;  /*isso deixa o objeto invisivel */
 
 }
+
